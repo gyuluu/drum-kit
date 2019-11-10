@@ -1,5 +1,5 @@
 # Björk Drum Kit
-Digital Drum Kit made with HTML, CSS and Vanilla JavaScript, first challenge from the #Javascript30 series. The idea for the key names comes from Björk's song 'Cvalda', from the soundtrack album 'Selmasongs'.
+Digital Drum Kit made with HTML, CSS and Vanilla JavaScript, first challenge from the #Javascript30 series. The idea for the key names comes from Björk's song 'Cvalda', from the soundtrack album 'Selmasongs'. You can try it out at: https://gyuluu.github.io/drum-kit/
 
 ![bjork drum kit](images/drumkit.png)
 
